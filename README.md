@@ -35,5 +35,10 @@ Ce projet est conçu pour permettre aux utilisateurs de centraliser leurs opéra
 ## 🛠 Technologies utilisées
 
 | Technologie | Usage |
-|------------|--------|
-|
+|----------------------|--------|
+| **Laravel** | Backend, API, gestion utilisateurs, logic métier |
+| **N8N** | Automatisation des workflows et bots de tâches |
+| **API REST** | Communication entre services internes/externes |
+| **Gemini (Google AI)** | Génération de contenu / analyse IA |
+| **OpenAI** | Génération d’images, vidéos & automatisation IA |
+| **Google Cloud** | Hébergement, stockage & gestion cloud scalable |
